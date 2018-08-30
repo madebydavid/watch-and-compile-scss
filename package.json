@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "build": "webpack",
+    "watch": "webpack-dev-server"
+  },
+  "devDependencies": {
+    "css-loader": "^1.0.0",
+    "extract-text-webpack-plugin": "^2.1.2",
+    "node-sass": "^4.5.0",
+    "sass-loader": "^5.0.1",
+    "webpack": "^2.2.1",
+    "webpack-dev-server": "2.8.2"
+  },
+  "dependencies": {}
+}
